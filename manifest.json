@@ -1,0 +1,9 @@
+{
+  "name": "RepoChineseInputPlus",
+  "version_number": "2.0.0",
+  "website_url": "https://github.com/liuxuefeng1997/R.E.P.O.Mods.Feedback.Only",
+  "description": "0.5.1 版中文输入：菜单输入框支持输入法组合、Ctrl+V 粘贴、去除强制大写；聊天框使用游戏原生 IME。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
